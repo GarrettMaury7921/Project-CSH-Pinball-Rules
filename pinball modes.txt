@@ -2,6 +2,10 @@ RULES:
 
 STARTING: YOU ARE A FRESHMAN, BECOME A MEMBER
 
+Note: Multiballs do not increase loop/ramp hit counters, they are replaced by jackpots
+Things such as pop bumper hit counters increase in multiballs 
+Signatures can increase during multiballs, seminars / projects do not
+
 Need 60 Packet Signatures
 30 Freshman
 30 Upperclassman
@@ -34,23 +38,32 @@ SCORING:
 		- Completing gives an extra 5,000
 			- Adds 1 to BONUS X
 
-	1-9-8-7
+	1-9-7-6
 		- Can Change light with flipper
 		- 1 and 7 give 10,000
-		- 9 and 8 give 2,000
+		- 9 and 6 give 2,000
 		- Completing this adds 1 to BONUS X
 
 	South Side Loop (Left)
 		- 15,000
 		- +1 Frosh Signature
+		- +1 Loop (In non multiball)
 		- Hit 5 Times?
 			- +1 Major Project
+		- Hit 20 Loops?
+			- If you are a member
+				- Light Interstellar Mode
+		
 		
 	North Side Loop (Right)
 		- 15,000
 		- +1 Frosh Signature
+		- +1 Loop (In non multiball)
 		- Hit 5 Times?
 			- +1 Major Project
+		- Hit 20 Loops?
+			- If you are a member
+				- Light Interstellar Mode
 		
 	Vader Lobby Left
 		- 15,000
@@ -85,6 +98,8 @@ SCORING:
 	
 	Party button rollover behind
 		- 10,000
+		- Lights Mystery
+			- After the first one it should take 2 to light mystery
 	
 	Party Button
 		- 30,000
@@ -119,6 +134,17 @@ SCORING:
 			- Light House Meeting
 	
 	Scoop Ball Pit
+		- Activate Mystery if lit, this is triggered no matter what before any mode
+		- modes still occur afterwards
+			- MYSTERY:
+				- Use some weird algo (that nobody understands idk) to determine this
+					MYSTERY CHOICES:
+					- 50,000 (gets changed to 500,000 if member)
+					- Light Bagels MULTIBALL
+					- Light Extra Ball
+					- + 5 Freshman Signatures
+					- + 5 Upperclassman Signatures
+					- more will be put in later
 		- If Extra ball is lit, get it
 		- Mode Starter, one mode at a time
 		- Can do multiball within a mode
@@ -228,3 +254,22 @@ SPRING EVALS
 					- + 10 Upperclassman Signatures
 					- YOU BECAME A MEMBER!!!
 					- Alternate Modes Unlock!
+					
+
+ALTERNATE MODES (After You Become A Member):
+
+Interstellar:
+	(plays no time for caution)
+	TIMED MODE, the amount of time is the same as the song.
+	- Hit one of two loops that the game randomly chooses (5,000)
+		- Then hit one of two vader lobby shots (10,000)
+			- Party Button (20,000)
+				- Lounge Target (40,000)
+					- User Center Ramp (80,000)
+						- Luser Center Ramp (160,000)
+							- Then constantly hit a single loop multiple times (randomly chosen which one)
+							- 400,000 a piece
+							- Hit 7?
+								- GO FOR SCOOP!! (mega dramatic)
+									- Win 1,000,000
+									- + 20 Upperclassman Signatures
